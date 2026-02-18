@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "loader.js": {
+      "runtime": "nodejs18.x"
+    }
+  },
+  "routes": [
+    {
+      "src": "/loader",
+      "dest": "/loader.js"
+    }
+  ]
+}
